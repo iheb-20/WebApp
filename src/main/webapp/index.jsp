@@ -34,7 +34,7 @@
             </div>
         </div>
     </form>
-    <p>Or <a href="Register.html">Register</a> </p>
+    <p>Or <a href="Registration.jsp">Register</a> </p>
 
 </div>
 </body>
